@@ -1,0 +1,22 @@
+.App .all{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+p {
+  margin: 0 10px;
+  font-weight: bold;
+  font-size: 30px;
+  color: #e811ced1;
+}
+button {
+  border: 1px solid #c40ed84d;
+  padding: 10px 20px;
+  border-radius: 5px;
+  box-shadow: 1px 1px 5px 0px #c40ed89c;
+  font-size: 30px;
+  font-weight: bold;
+  cursor: pointer;
+  color: #c40ed882;
+}
