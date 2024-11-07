@@ -65,7 +65,7 @@ If you want to open the link in a new tab, you can:
 Otherwise, all links will open in the same tab.
 
 
-- Solution URL: [here](https://github.com/olahasan/Counter-Redux-Class)
+- Solution URL: [here](https://github.com/olahasan/Counter-React-Redux-mapStateToProps-mapdispatchtoprops--Class-component)
 
 - Live Site URL: [here](https://statuesque-alfajores-174b5f.netlify.app/)
 
