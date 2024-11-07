@@ -40,7 +40,7 @@ To get started with this project, follow these steps:
 you can clone the project or download it as Zip file.
 1. Clone the repository:
    ```bash
-   git clone https://github.com/olahasan/Counter-Redux-Class
+   git clone https://github.com/olahasan/Counter-React-Redux-mapStateToProps-mapdispatchtoprops--Class-component
 
 2. Navigate to the project directory:
    cd <project-directory>
